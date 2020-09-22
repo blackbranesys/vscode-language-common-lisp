@@ -1,0 +1,28 @@
+{
+    "name": "vscode-common-lisp",
+    "publisher": "blackbranesystems",
+    "displayName": "Black Metal Common Lisp",
+    "description": "The Grim and True VSCode extension for Extreme Lisp Hackers",
+    "version": "0.0.1",
+    "license": "See LICENSE",
+    "keywords": ["lisp", "commonlisp", "lispworks",  "repl", "semantic"],
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "lisp",
+            "aliases": ["Common Lisp", "lisp"],
+            "extensions": [".lisp",".lsp",".cl",".lisp-expr",".asd",".ros"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "lisp",
+            "scopeName": "source.lisp",
+            "path": "./syntaxes/Common Lisp.tmLanguage"
+        }]
+    }
+}
