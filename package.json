@@ -1,10 +1,14 @@
 {
     "name": "vscode-common-lisp",
-    "publisher": "blackbranesystems",
+    "publisher": "blackbranesystemsinc",
     "displayName": "Black Metal Common Lisp",
     "description": "The Grim and True VSCode extension for Extreme Lisp Hackers",
     "version": "0.0.1",
     "license": "See LICENSE",
+    "icon": "BMCL-icon.png",
+    "repository": {
+        "url": "https://github.com/blackbranesys/vscode-language-common-lisp.git"
+    },
     "keywords": ["lisp", "commonlisp", "lispworks",  "repl", "semantic"],
     "engines": {
         "vscode": "^1.49.0"
