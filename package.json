@@ -3,11 +3,12 @@
     "publisher": "blackbrane",
     "displayName": "Black Metal Common Lisp",
     "description": "The Grim and True VSCode extension for Extreme Lisp Hackers",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "preview": true,
     "license": "See LICENSE",
     "icon": "BMCL-icon.png",
     "repository": {
+        "type": "git",
         "url": "https://github.com/blackbranesys/vscode-language-common-lisp.git"
     },
     "keywords": ["lisp", "commonlisp", "lispworks",  "repl", "semantic"],
