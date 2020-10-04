@@ -6,6 +6,8 @@
 
 # BLACK METAL COMMON LISP
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/blackbrane.vscode-common-lisp.svg)](#)
+
 The Grim and True VS Code Extension for the Uncompromising Common Lisp Hacker.
 
 Currently in Preview. Expect to live on the bleeding-edge.
