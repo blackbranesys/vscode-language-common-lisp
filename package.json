@@ -3,7 +3,8 @@
     "publisher": "blackbrane",
     "displayName": "Black Metal Common Lisp",
     "description": "The Grim and True VSCode extension for Extreme Lisp Hackers",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "preview": true,
     "license": "See LICENSE",
     "icon": "BMCL-icon.png",
     "repository": {

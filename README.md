@@ -4,7 +4,7 @@
 
 &nbsp;
 
-# BLACK METAL COMMON LISP v0.0.1-Preview
+# BLACK METAL COMMON LISP
 
 The Grim and True VS Code Extension for the Uncompromising Common Lisp Hacker.
 
