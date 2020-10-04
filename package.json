@@ -1,9 +1,9 @@
 {
     "name": "vscode-common-lisp",
-    "publisher": "blackbranesystemsinc",
+    "publisher": "blackbrane",
     "displayName": "Black Metal Common Lisp",
     "description": "The Grim and True VSCode extension for Extreme Lisp Hackers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "See LICENSE",
     "icon": "BMCL-icon.png",
     "repository": {
